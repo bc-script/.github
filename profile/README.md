@@ -5,6 +5,8 @@ Somo uma empresa de inovação que trabalha com Sistema Operacionales Linux. A p
 - [Trabalho 01](https://github.com/EC01016-so/trabalho01)
 - [Trabalho 02](https://github.com/EC01016-so/trabalho02)
 - [Trabalho 03](https://github.com/EC01016-so/trabalho03)
+- [Trabalho 04](https://github.com/EC01016-so/trabalho04)
+
 
 ## Desenvolvedores
 
