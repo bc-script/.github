@@ -12,3 +12,4 @@ Para desabilitar a interface visual de configuração de rede, o NetworkManager,
 - **ALLAN MENDES**
 - **JEAN DEAN MONTEIRO PEREIRA**
 -  **PRINCE NYARKO**
+-  **RAISSA CUNHA**
